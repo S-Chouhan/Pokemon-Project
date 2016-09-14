@@ -1,0 +1,9 @@
+c:\users\chouhan's\documents\visual studio 2013\Projects\projectPokemon\projectPokemon\bin\Debug\projectPokemon.exe.config
+c:\users\chouhan's\documents\visual studio 2013\Projects\projectPokemon\projectPokemon\obj\Debug\projectPokemon.csprojResolveAssemblyReference.cache
+c:\users\chouhan's\documents\visual studio 2013\Projects\projectPokemon\projectPokemon\obj\Debug\projectPokemon.pokemonForm.resources
+c:\users\chouhan's\documents\visual studio 2013\Projects\projectPokemon\projectPokemon\obj\Debug\projectPokemon.Properties.Resources.resources
+c:\users\chouhan's\documents\visual studio 2013\Projects\projectPokemon\projectPokemon\obj\Debug\projectPokemon.csproj.GenerateResource.Cache
+c:\users\chouhan's\documents\visual studio 2013\Projects\projectPokemon\projectPokemon\bin\Debug\projectPokemon.exe
+c:\users\chouhan's\documents\visual studio 2013\Projects\projectPokemon\projectPokemon\bin\Debug\projectPokemon.pdb
+c:\users\chouhan's\documents\visual studio 2013\Projects\projectPokemon\projectPokemon\obj\Debug\projectPokemon.exe
+c:\users\chouhan's\documents\visual studio 2013\Projects\projectPokemon\projectPokemon\obj\Debug\projectPokemon.pdb

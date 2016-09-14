@@ -1,0 +1,7 @@
+c:\users\chouhan's\documents\visual studio 2013\Projects\projectPokemon\PokemonTesting\obj\Debug\PokemonTesting.csprojResolveAssemblyReference.cache
+c:\users\chouhan's\documents\visual studio 2013\Projects\projectPokemon\PokemonTesting\bin\Debug\PokemonTesting.dll
+c:\users\chouhan's\documents\visual studio 2013\Projects\projectPokemon\PokemonTesting\bin\Debug\PokemonTesting.pdb
+c:\users\chouhan's\documents\visual studio 2013\Projects\projectPokemon\PokemonTesting\bin\Debug\projectPokemon.exe
+c:\users\chouhan's\documents\visual studio 2013\Projects\projectPokemon\PokemonTesting\bin\Debug\projectPokemon.pdb
+c:\users\chouhan's\documents\visual studio 2013\Projects\projectPokemon\PokemonTesting\obj\Debug\PokemonTesting.dll
+c:\users\chouhan's\documents\visual studio 2013\Projects\projectPokemon\PokemonTesting\obj\Debug\PokemonTesting.pdb
